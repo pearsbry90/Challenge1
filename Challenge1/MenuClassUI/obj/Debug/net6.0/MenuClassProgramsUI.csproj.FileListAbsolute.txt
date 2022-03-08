@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.AssemblyInfo.cs
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\bin\Debug\net6.0\MenuClassProgramsUI.deps.json
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\bin\Debug\net6.0\MenuClassProgramsUI.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\bin\Debug\net6.0\ref\MenuClassProgramsUI.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\bin\Debug\net6.0\MenuClassProgramsUI.pdb
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\bin\Debug\net6.0\MenuRepo.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\bin\Debug\net6.0\MenuRepo.pdb
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.csproj.CopyComplete
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\ref\MenuClassProgramsUI.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuClassUI\obj\Debug\net6.0\MenuClassProgramsUI.pdb

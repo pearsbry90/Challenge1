@@ -1,0 +1,12 @@
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\bin\Debug\net6.0\MenuRepo.deps.json
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\bin\Debug\net6.0\MenuRepo.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\bin\Debug\net6.0\ref\MenuRepo.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\bin\Debug\net6.0\MenuRepo.pdb
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.AssemblyInfo.cs
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\ref\MenuRepo.dll
+C:\Users\ramon\Documents\SD134FT\GoldBadge\Challenge1\MenuRepository\obj\Debug\net6.0\MenuRepo.pdb

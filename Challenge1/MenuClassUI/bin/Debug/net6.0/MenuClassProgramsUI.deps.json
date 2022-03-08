@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MenuClassProgramsUI/1.0.0": {
+        "dependencies": {
+          "MenuRepo": "1.0.0"
+        },
+        "runtime": {
+          "MenuClassProgramsUI.dll": {}
+        }
+      },
+      "MenuRepo/1.0.0": {
+        "runtime": {
+          "MenuRepo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuClassProgramsUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
